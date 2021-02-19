@@ -5,6 +5,11 @@
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "source": "src/index.js",
+  "engines": {
+    "npm": "please-use-yarn",
+    "yarn": ">= 1.22.5",
+    "node": ">=12.19.1"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
