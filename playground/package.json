@@ -10,7 +10,7 @@
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",
     "web-vitals": "^1.0.1",
-    "cra_component_lib": "file:.."
+    "design-system": "file:.."
   },
   "scripts": {
     "start": "react-scripts start",
